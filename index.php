@@ -12,7 +12,7 @@
      <script src="js/bulma.js"></script>
 </head>
 <body class="is-light">
-
+<!-- feature branch test for authentication cleanup -->
 <!-- HEADER -->
 <?php
 require 'resources/header_guest.php';
@@ -107,6 +107,5 @@ require 'resources/footer_guest.php';
 require 'resources/targetframe_guest.php';
 ?>
 <!-- FOOTER -->
-
 </body>
 </html>
