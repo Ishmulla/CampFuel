@@ -36,7 +36,7 @@ require 'mobile_dashboard_menu.php';
 <!-- MOBILE -->
 <article style="margin:0px 10px 10px 10px ;" class="message is-info">
 <div class="message-body">
-<h3 class="title is-5">Welcome to CampFuel. Follow the steps below to order your Propane cylinder and other camping accesories.</h3>
+<h3 class="title is-5">Welcome to CampFuel. Follow the steps below to order your Propane cylinder and other accesories.</h3>
 </div>
 </article>
 <br>

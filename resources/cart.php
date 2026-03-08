@@ -55,7 +55,7 @@ $_SESSION['pr']=$price;
 
 <div style="border:1px solid #a88beb;" class="box">
     <p class="has-text-left"><span class="has-text-weight-semibold">CYLINDER SIZE: </span><?php echo $cylinder_size; ?> (Kgs)</p>
-    <p class="has-text-left"><span class="has-text-weight-semibold">GAS BRAND: </span><?php echo $gas_brand; ?></p>	
+    <p class="has-text-left"><span class="has-text-weight-semibold">PROPANE BRAND: </span><?php echo $gas_brand; ?></p>	
     <p class="has-text-left"><span class="has-text-weight-semibold">QUANTITY: </span><?php echo $quantity; ?></p>	
     <p class="has-text-left"><span class="has-text-weight-semibold">SELLER: </span><?php echo $company; ?></p>	
     <p class="has-text-left"><span class="has-text-weight-semibold">ESTIMATED BUDGET: </span>Ksh <?php echo $price; ?></p>	

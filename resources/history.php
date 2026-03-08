@@ -47,7 +47,7 @@ if (mysqli_num_rows($history)>0) {
 	<thead>
 		<th class="has-text-primary"><sup>NO</sup></th>
 		<th class="has-text-primary">CYLINDER SIZE</th>
-		<th class="has-text-primary">GAS BRAND</th>
+		<th class="has-text-primary">PROPANE BRAND</th>
 		<th class="has-text-primary">QUANTITY</th>
 		<th class="has-text-primary">SELLER</th>
 		<th class="has-text-primary">PRICE</th>
